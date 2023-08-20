@@ -1,7 +1,7 @@
 package com.example.springboot.component;
 
 import org.springframework.stereotype.Component;
-
+//
 @Component
 public class RestaurantConfig {
     private double minPrice;
